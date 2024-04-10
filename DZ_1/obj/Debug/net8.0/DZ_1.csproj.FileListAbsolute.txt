@@ -1,0 +1,14 @@
+C:\Users\darke\Desktop\DZ_\DZ_1\bin\Debug\net8.0\DZ_1.exe
+C:\Users\darke\Desktop\DZ_\DZ_1\bin\Debug\net8.0\DZ_1.deps.json
+C:\Users\darke\Desktop\DZ_\DZ_1\bin\Debug\net8.0\DZ_1.runtimeconfig.json
+C:\Users\darke\Desktop\DZ_\DZ_1\bin\Debug\net8.0\DZ_1.dll
+C:\Users\darke\Desktop\DZ_\DZ_1\bin\Debug\net8.0\DZ_1.pdb
+C:\Users\darke\Desktop\DZ_\DZ_1\obj\Debug\net8.0\DZ_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\darke\Desktop\DZ_\DZ_1\obj\Debug\net8.0\DZ_1.AssemblyInfoInputs.cache
+C:\Users\darke\Desktop\DZ_\DZ_1\obj\Debug\net8.0\DZ_1.AssemblyInfo.cs
+C:\Users\darke\Desktop\DZ_\DZ_1\obj\Debug\net8.0\DZ_1.csproj.CoreCompileInputs.cache
+C:\Users\darke\Desktop\DZ_\DZ_1\obj\Debug\net8.0\DZ_1.dll
+C:\Users\darke\Desktop\DZ_\DZ_1\obj\Debug\net8.0\refint\DZ_1.dll
+C:\Users\darke\Desktop\DZ_\DZ_1\obj\Debug\net8.0\DZ_1.pdb
+C:\Users\darke\Desktop\DZ_\DZ_1\obj\Debug\net8.0\DZ_1.genruntimeconfig.cache
+C:\Users\darke\Desktop\DZ_\DZ_1\obj\Debug\net8.0\ref\DZ_1.dll
