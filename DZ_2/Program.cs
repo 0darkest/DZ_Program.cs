@@ -9,10 +9,10 @@ public class Program
 	{
 		
 
-		Console.Write("Введите неотрицательное число m: "); 
+		Console.Write("Введите неотрицательное число n: "); 
         int m = Convert.ToInt32(Console.ReadLine()); 
  
-        Console.Write("Введите неотрицательное число n: "); 
+        Console.Write("Введите неотрицательное число m: "); 
         int n = Convert.ToInt32(Console.ReadLine());
 		
 		int AkkermanFunc(int m, int n)
